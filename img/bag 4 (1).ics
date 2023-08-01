@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20230731T110000Z
+DTEND:20230731T150000Z
+DTSTAMP:20230726T143000Z
+ORGANIZER;CN="Borderless Africa":MAILTO:calendar-invite@lu.ma
+UID:evt-rNEw2g9Pfou9Vav@events.lu.ma
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=victor
+ udochukwu528@gmail.com;X-NUM-GUESTS=0:mailto:victorudochukwu528@gmail.com
+SUMMARY:Ethereum Community Meetup 🇳🇬 
+DESCRIPTION:Get up-to-date information at: https://lu.ma/9ie32ffq?pk=g-sB1Z
+ 02aQlOP7NSB\n\nAddress:\nZone Tech Park\n\nWelcome to an open Ethereum Comm
+ unity meetup! \nCome to connect with others from the Nigerian ecosystem and
+  meet with leaders from Arbitrum, Scroll, ETHGlobal, and Etheruem community
+  members.\nJoin an engaging discussion on the most exciting developments in
+  Ethereum, Zero Knowledge, and the roadmaps of several Layer 2s.\nThis is n
+ ot a marketing or promotional event. Instead it seeks to encourage open dia
+ logue and an environment that nurtures collective growth and knowledge-shar
+ ing.\nWe will also have a few homegrown projects share their vision - if yo
+ u wish to be considered to present, please indicate when registering.\n\n✨ 
+ This event is supported by Arbitrum, Scroll, Optimism, and ETH Global. And 
+ brought to you by Borderless in partnership with local communities.\n​🍿 Sn
+ acks and refreshments will be served.
+LOCATION:Zone Tech Park, Plot 9 Gbagada Industrial Scheme, Beside UPS, Arar
+ omi 105102, Gbagada Expressway, Lagos, Nigeria
+GEO:6.551431;3.376840
+SEQUENCE:0
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
